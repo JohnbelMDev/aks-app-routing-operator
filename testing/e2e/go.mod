@@ -7,7 +7,7 @@ toolchain go1.22.3
 require (
 	github.com/Azure/aks-app-routing-operator v0.0.3
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.7.2
-	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.3.0
+	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.6.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/authorization/armauthorization/v2 v2.1.1
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/containerregistry/armcontainerregistry v1.0.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/containerservice/armcontainerservice/v2 v2.4.0
